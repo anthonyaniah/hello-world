@@ -1,2 +1,2 @@
 # hello-world
-The code worls
+"The code world" Is About a World Driven By Programming Magic code. I love php programming and I intend to spread in diverse programming languages. creating Of Softwares To Manage Schools And Examination Systems, Revenue Collection/Revenue Management Through POS Terminals, And Security monitoring are my priorities. I Hope to Work With Other Programmers to boost my carrier Through Laravel.  
